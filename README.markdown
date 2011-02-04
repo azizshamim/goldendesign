@@ -1,4 +1,4 @@
-Eventually a java scriptlet to let you draw an arc on a page
+Eventually a java bookmarketlet to help you design a website by laying out the elements on a golden section 
 
 Right now, a math problem to help me draw an arc on a blank page at origin x,y
 
